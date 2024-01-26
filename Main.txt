@@ -1,2 +1,3 @@
 Hello this is Samarth Harne.
 This a practice git repo created by me for my practice and echnace my skills towards command line interface.
+Now i have done my first git commit for main file.
